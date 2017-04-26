@@ -78,6 +78,10 @@
   position: absolute;
   top: 50%;
   left: 50%;
+	font-family: 'Slabo 27px', serif;
+	color: white;
+	display: inline-block;
+	margin: 0 auto;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
 }
